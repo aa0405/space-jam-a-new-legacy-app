@@ -340,5 +340,4 @@ function startNextQuarter() {
         }
     }, 1000);
 
-
 }
