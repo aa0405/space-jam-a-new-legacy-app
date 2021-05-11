@@ -295,8 +295,6 @@ function endGame() {
    document.getElementById('quarter').innerText = '';
    document.getElementById('currentPER').innerText = '';
 
-
-
 }
 
 // This function is called when the Game button is selected. Each time the button is selected,
